@@ -1,2 +1,2 @@
 # socioNet
-Install eclipse and oracle 10g,11g database which is compactible,tomcat server and you are good to go.
+Install eclipse and oracle 10g database,tomcat server and you are good to go.

@@ -1,2 +1,3 @@
 # socioNet
-Install eclipse and oracle 10g database,tomcat server and you are good to go.
+5th Semester Engineering Project
+Install Eclipse and Oracle 10g database, tomcat server and you are good to go.
